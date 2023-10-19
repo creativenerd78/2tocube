@@ -1,0 +1,8 @@
+"import tkinter as tk" 
+"root = tk.Tk()" 
+"root.title('2ToCube')" 
+"label = tk.Label(root, text='Welcome to 2ToCube!')" 
+"label.pack()" 
+"button = tk.Button(root, text='Click Me', command=lambda: label.config(text='Button Clicked'))" 
+"button.pack()" 
+"root.mainloop()" 
